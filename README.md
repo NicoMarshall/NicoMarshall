@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Nicholas Marshall!
 - 📜 Warwick University Mathematics Graduate (MMath Hons)
-- 🤩 I’m passionate about all things data science and statistics.
-- 🌱 I’m currently learning through the Data Science Graduate Scheme at AiCore.
-- :chart_with_upwards_trend: Experienced in Python programming; Pandas, Numpy, Matplotlib, Pytorch, Scikit-learn.
--  🚀 Experienced in Docker
--  🧑‍💻 Familiar with PostgreSQL and AWS
+- 🤩 Interested in all things data, machine learning and stats.
+- 🌱 Currently working as a data engineer at ForLoop, a data science consultancy..
+- :chart_with_upwards_trend: Experienced in building and maintaining end-to-end data pipelines with Python,SQL and PowerBI.
 -  🧗 Keen rock climber and 🏔️ mountaineer
 
 <!---
